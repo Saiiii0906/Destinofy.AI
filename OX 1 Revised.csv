@@ -1,9 +1,0 @@
-designation,doctor_name,doctor_id,room,floor_node,lat,lng,phone,notes
-Cardiology,Dr. Ravi Patel,DOC001,C3,C3,,,+919876543210,Speciality OPD near Radiology
-Orthopedics,Dr. Meera Shah,DOC002,C10,C10,,,+919812345678,"OPD wing, ground floor"
-General Surgeon,Dr. Amit Joshi,DOC003,OT-1,OT-1,,,+919898765432,Operation Theater 1
-Radiology,Dr. Kavita Rao,DOC004,RAD-1,RAD-1,,,+919811122233,Radiology / X-Ray area
-Emergency,Dr. Sunil Verma,DOC005,ER-1,ER-1,,,+919800112233,Casuality Ward - Male section
-Reception,Reception Desk,REC001,RECEP,RECEP,,,+919900112233,New OPD Registration / Enquiry counter
-Anesthesiology,Dr. Priya Nair,DOC006,OT-2,OT-2,,,+919877665544,Operation Theater 2
-Pediatrics,Dr. Karan Desai,DOC007,PEDS-1,PEDS-1,,,+919899001122,Speciality OPD - Pediatrics
