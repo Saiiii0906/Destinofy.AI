@@ -1,0 +1,98 @@
+[
+  {
+    "designation": "Cardiology",
+    "doctor_name": "Dr. Ravi Patel",
+    "doctor_id": "DOC001",
+    "room": "C3",
+    "floor_node": "C3",
+    "lat": NaN,
+    "lng": NaN,
+    "phone": 919876543210,
+    "notes": "Speciality OPD near Radiology",
+    "indoor_map_link": "https://yourdomain.com/maps?room=C3"
+  },
+  {
+    "designation": "Orthopedics",
+    "doctor_name": "Dr. Meera Shah",
+    "doctor_id": "DOC002",
+    "room": "C10",
+    "floor_node": "C10",
+    "lat": NaN,
+    "lng": NaN,
+    "phone": 919812345678,
+    "notes": "OPD wing, ground floor",
+    "indoor_map_link": "https://yourdomain.com/maps?room=C10"
+  },
+  {
+    "designation": "General Surgeon",
+    "doctor_name": "Dr. Amit Joshi",
+    "doctor_id": "DOC003",
+    "room": "OT-1",
+    "floor_node": "OT-1",
+    "lat": NaN,
+    "lng": NaN,
+    "phone": 919898765432,
+    "notes": "Operation Theater 1",
+    "indoor_map_link": "https://yourdomain.com/maps?room=OT-1"
+  },
+  {
+    "designation": "Radiology",
+    "doctor_name": "Dr. Kavita Rao",
+    "doctor_id": "DOC004",
+    "room": "RAD-1",
+    "floor_node": "RAD-1",
+    "lat": NaN,
+    "lng": NaN,
+    "phone": 919811122233,
+    "notes": "Radiology / X-Ray area",
+    "indoor_map_link": "https://yourdomain.com/maps?room=RAD-1"
+  },
+  {
+    "designation": "Emergency",
+    "doctor_name": "Dr. Sunil Verma",
+    "doctor_id": "DOC005",
+    "room": "ER-1",
+    "floor_node": "ER-1",
+    "lat": NaN,
+    "lng": NaN,
+    "phone": 919800112233,
+    "notes": "Casuality Ward - Male section",
+    "indoor_map_link": "https://yourdomain.com/maps?room=ER-1"
+  },
+  {
+    "designation": "Reception",
+    "doctor_name": "Reception Desk",
+    "doctor_id": "REC001",
+    "room": "RECEP",
+    "floor_node": "RECEP",
+    "lat": NaN,
+    "lng": NaN,
+    "phone": 919900112233,
+    "notes": "New OPD Registration / Enquiry counter",
+    "indoor_map_link": "https://yourdomain.com/maps?room=RECEP"
+  },
+  {
+    "designation": "Anesthesiology",
+    "doctor_name": "Dr. Priya Nair",
+    "doctor_id": "DOC006",
+    "room": "OT-2",
+    "floor_node": "OT-2",
+    "lat": NaN,
+    "lng": NaN,
+    "phone": 919877665544,
+    "notes": "Operation Theater 2",
+    "indoor_map_link": "https://yourdomain.com/maps?room=OT-2"
+  },
+  {
+    "designation": "Pediatrics",
+    "doctor_name": "Dr. Karan Desai",
+    "doctor_id": "DOC007",
+    "room": "PEDS-1",
+    "floor_node": "PEDS-1",
+    "lat": NaN,
+    "lng": NaN,
+    "phone": 919899001122,
+    "notes": "Speciality OPD - Pediatrics",
+    "indoor_map_link": "https://yourdomain.com/maps?room=PEDS-1"
+  }
+]
